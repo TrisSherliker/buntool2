@@ -55,7 +55,7 @@ Other functions may need importing depending on your needs, but they are documen
 
 BunTool is hand-coded without the use of AI to generate code. AI was used to design the website frontend (and glue code) at buntool.co.uk, and to review for bugs and generate simple docstrings. 
 
-An exception is the stub file `buntoolRestore.js`,which is a non-functional but entirely AI-generated starting point for future development. Since it doesn't work, I'll be rebuilding it by hand.
+An exception is the file `buntoolRestore.js`, which was created using a long and winding prompt journey via Claue Code.
 
 ## License
 
